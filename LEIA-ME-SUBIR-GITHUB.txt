@@ -1,1 +1,0 @@
-Suba estes arquivos na raiz do GitHub Pages: assets, index.html, 404.html e .nojekyll.
