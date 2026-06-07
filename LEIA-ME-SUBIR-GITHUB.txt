@@ -1,0 +1,10 @@
+SUBIR NO GITHUB PAGES
+
+1. Extraia este ZIP.
+2. Apague os arquivos antigos do repositório.
+3. Envie estes arquivos para a raiz do repositório:
+   - assets/
+   - index.html
+   - 404.html
+   - .nojekyll
+4. Em Settings > Pages, use Deploy from a branch > main > /root.
