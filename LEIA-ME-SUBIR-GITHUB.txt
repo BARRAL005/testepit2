@@ -1,0 +1,10 @@
+PitStop V7 - site pronto para GitHub Pages.
+
+Alterações:
+- Etiqueta 70x30mm redesenhada para não cortar palavras.
+- Marca simples: PIT STOP COHAB, sem logo/imagem.
+- Produto com até 2 linhas e preço grande.
+- Firebase com salvamento individual por item em pitstop_data/{modulo}/items/{id}.
+- App dividido em telas lazy para manter fluidez.
+
+Suba no GitHub Pages: assets, index.html, 404.html e .nojekyll.
